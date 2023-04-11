@@ -1,6 +1,6 @@
 # hackintosh
 
-## intel gen 10
+## Intel Gen 10
 
 ### Infinix-Inbook-series Hackintosh-Guide-Opencore.
 https://github.com/devboloji/Infinix-Hackintosh-Opencore-Guide
